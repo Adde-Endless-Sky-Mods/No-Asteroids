@@ -1,3 +1,5 @@
+system "Al Hurr"
+	asteroids 0
 system "1 Axis"
 	asteroids 0
 system "10 Pole"
@@ -664,6 +666,10 @@ system "Lurata"
 	asteroids 0
 system "M-1188"
 	asteroids 0
+system "MC-42"
+	asteroids 0
+system "MS-219"
+	asteroids 0
 system "Makferuti"
 	asteroids 0
 system "Maoni"
@@ -673,8 +679,6 @@ system "Markab"
 system "Markeb"
 	asteroids 0
 system "Matar"
-	asteroids 0
-system "MC-42"
 	asteroids 0
 system "Mebla"
 	asteroids 0
@@ -733,8 +737,6 @@ system "Mohuwo"
 system "Moktar"
 	asteroids 0
 system "Mora"
-	asteroids 0
-system "MS-219"
 	asteroids 0
 system "Msalbit"
 	asteroids 0
@@ -946,13 +948,13 @@ system "Sko'karak"
 	asteroids 0
 system "Sobarati"
 	asteroids 0
+system "Sol"
+	asteroids 0
 system "Sol Arach"
 	asteroids 0
 system "Sol Kimek"
 	asteroids 0
 system "Sol Saryd"
-	asteroids 0
-system "Sol"
 	asteroids 0
 system "Solifar"
 	asteroids 0
